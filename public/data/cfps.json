@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-19T07:39:24.957359+00:00",
-  "total": 101,
+  "last_updated": "2026-03-20T07:38:36.558119+00:00",
+  "total": 99,
   "topics": {
     "fantastic": "The Fantastic / Gothic / Speculative",
     "ecocriticism": "Ecocriticism / Environmental Humanities",
@@ -120,21 +120,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "10d7b8979515"
-    },
-    {
-      "title": "DEIC 2026",
-      "description": "WikiCFP listing. Jun 12, 2026 - Jun 14, 2026",
-      "venue": "",
-      "deadline": "2026 2nd International Conference on Digital Economy and Intelligent Computing",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192334&amp;copyownerid=182680",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "3f38a55b5d8a"
     },
     {
       "title": "gender",
@@ -407,11 +392,11 @@
       "id": "36b65474f9c7"
     },
     {
-      "title": "ICISIP 2026",
-      "description": "WikiCFP listing. Sep 7, 2026 - Sep 11, 2026",
+      "title": "Ei/Scopus-CMLDS 2026",
+      "description": "WikiCFP listing. Apr 24, 2026 - Apr 26, 2026",
       "venue": "",
-      "deadline": "The 13th IIAE International Conference on Intelligent Systems and Image Processing 2026",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191600&amp;copyownerid=124960",
+      "deadline": "2026 3rd International Conference on Computing, Machine Learning and Data Science (CMLDS 2026)",
+      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=172345&amp;copyownerid=165700",
       "topics": [
         "general"
       ],
@@ -419,7 +404,7 @@
       "source": "WikiCFP",
       "impactTier": "unknown",
       "impactQuartile": null,
-      "id": "39396786b955"
+      "id": "b27021efc44b"
     },
     {
       "title": "Research Handbook on Decision Science 2026",
@@ -435,21 +420,6 @@
       "impactTier": "unknown",
       "impactQuartile": null,
       "id": "99aea99743fe"
-    },
-    {
-      "title": "ICISS 2026",
-      "description": "WikiCFP listing. Aug 27, 2026 - Aug 29, 2026",
-      "venue": "",
-      "deadline": "ACM--2026 The 9th International Conference on Information Science and Systems (ICISS 2026)",
-      "url": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191349&amp;copyownerid=124960",
-      "topics": [
-        "general"
-      ],
-      "pubType": "unknown",
-      "source": "WikiCFP",
-      "impactTier": "unknown",
-      "impactQuartile": null,
-      "id": "8fb8399ba45d"
     },
     {
       "title": "call",
